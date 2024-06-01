@@ -1,1 +1,2 @@
 # Python-Movie-Correlation-Project
+Used the Pandas library on Python to import the Data of thousands of Movies. I then cleaned the data and changed the data types of the columns and queried some of the data. I then used the MatPlotLib library to create a Scatter plot to see if there was any correlation between the movie’s budgets and their gross earnings. And lastly, I used the Seaborn Library to create a heatmap which was used as a correlation matrix.
